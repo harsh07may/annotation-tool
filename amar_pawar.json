@@ -1,0 +1,10 @@
+{
+  "classes": ["NAME", "EMAIL", "PHONE", "EXPERIENCE", "EDUCATION", "SKILLS"],
+  "textContent": "Amar Ganesh Pawar\n\nSenior Software Engineer\n\nMob No: +91 7997265400, 8275913698\t\t\t\n\nEmail: agpawar89@gmail.com\n\n\n\n\n\n",
+  "annotations": [
+    [0, 17, "NAME"],
+    [53, 67, "PHONE"],
+    [69, 79, "PHONE"],
+    [91, 110, "EMAIL"]
+  ]
+}
